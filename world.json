@@ -1,0 +1,45 @@
+{
+  "World" : {
+    ".type" : 0,
+    "children" : {
+      "Entities" : {
+        ".type" : 0,
+        "children" : {
+          "Crate" : {
+            ".type" : 1,
+            "data" : {
+              ".model" : 0,
+              "pos" : [0.000000, 0.000000, 0.000000],
+              "rot" : [0.000000, 0.000000, 0.000000],
+              "scale" : 12.250000
+            }
+          }
+        },
+        "data" : null
+      },
+      "Structures" : {
+        ".type" : 0,
+        "children" : {
+          "Structure1" : {
+            ".type" : 0,
+            "data" : null
+          },
+          "Structure2" : {
+            ".type" : 0,
+            "data" : null
+          }
+        },
+        "data" : null
+      },
+      "Terrain" : {
+        ".type" : 2,
+        "data" : {
+          "pos" : [0.000000, 0.000000, 0.000000],
+          "rot" : [0.000000, 0.000000, 0.000000],
+          "scale" : 1.000000
+        }
+      }
+    },
+    "data" : null
+  }
+}
