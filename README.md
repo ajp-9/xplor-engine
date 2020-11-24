@@ -12,6 +12,7 @@ Third-Party Libraries:
 - ASSIMP (https://www.assimp.org/)
 - GLAD (https://github.com/Dav1dde/glad)
 - GLM (https://github.com/g-truc/glm)
+- ImGUI (https://github.com/ocornut/imgui)
 - SimpleJSON (https://github.com/nbsdx/SimpleJSON)
 - Robin Hood Hashing (https://github.com/martinus/robin-hood-hashing)
 - stb_image (https://github.com/nothings/stb)
